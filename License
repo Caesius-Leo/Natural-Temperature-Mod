@@ -1,0 +1,20 @@
+Custom License – Limited Rights Granted
+
+Copyright (c) 2025 Caesius_Leo
+
+This mod and its associated files are proprietary software. By downloading or using this mod, you agree to the following terms:
+
+You ARE allowed to:
+- Use this mod for personal, non-commercial purposes.
+- Include this mod in public or private Minecraft modpacks, provided proper credit is given.
+- Use this mod on public or private Minecraft servers.
+
+You are NOT allowed to:
+- Redistribute this mod on its own, outside of a modpack.
+- Modify, decompile, or reverse-engineer any part of this mod.
+- Use this mod or any part of it for commercial purposes.
+- Reupload or host the mod on third-party sites without permission.
+
+If you wish to request additional permissions, please contact the author at: caesius.leo@gmail.com
+
+Violation of these terms may result in removal requests or legal action.
