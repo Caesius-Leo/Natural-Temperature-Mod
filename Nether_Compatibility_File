@@ -5,7 +5,7 @@ If you remove default (leave "") the nether will generate like the overworld (wi
 
 To implement the compatibility replace "default" with one of the following mod name on the right:
 
-Better Nether = Always compatible
+Better Nether = Already compatible, leave "default" or ""
 Biomes O'Plenty = Nether not compatible, set "" to generate with bands or "default" to generate vanilla nether
 Incendium = set to "incendium"
 
