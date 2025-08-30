@@ -1,12 +1,14 @@
 Hello there, in this file there are all the informations to implement compatibility with nether mods
 
-In the config file there is the string "nether_compatibility": "default" , this mimics the vanilla, so no modded biomes will spawn.
-If you remove default (leave "") the nether will generate like the overworld (with bands) and modded biomes will spawn)
+
+In the config file there is the string "nether_compatibility": "total", if you leave it like that or remove total (leave "")
+the nether will generate like the overworld (with bands) and modded biomes will spawn).
+You can change it to "nether_compatibility": "default" to mimic the vanilla, so no modded biomes will spawn.
 
 To implement the compatibility replace "default" with one of the following mod name on the right:
 
-Better Nether = Already compatible, leave "default" or ""
-Biomes O'Plenty = Nether not compatible, set "" to generate with bands or "default" to generate vanilla nether
+Better Nether = Already compatible, leave "total" or "" or "default"
+Biomes O'Plenty = Nether not compatible, set "total" or "" to generate with bands or "default" to generate vanilla nether
 Incendium = set to "incendium"
 
 With time i will improve compatibility where possible
