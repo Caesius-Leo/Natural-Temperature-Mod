@@ -1,4 +1,5 @@
 Hello there, in this file there are all the informations to implement compatibility with nether mods
+[OUTDATED] From mod version 1.0.9 this is no longer necessary
 
 
 In the config file there is the string "nether_compatibility": "total", if you leave it like that or remove total (leave "")
